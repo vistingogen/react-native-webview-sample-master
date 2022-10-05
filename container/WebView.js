@@ -23,7 +23,7 @@ class MyWeb extends Component {
           ref={(webView) => (this.webView = webView)}
           source={{
             uri:
-              'https://universidadeuropea.vistingo.com/',
+              'https://universidadeuropea.vistingo.com/sso/b02050e0-3a61-11ed-a6f2-035d1439bdec',
           }}
           style={{marginTop: 0, backgroundColor: 'red'}}
           scalesPageToFit={true}
